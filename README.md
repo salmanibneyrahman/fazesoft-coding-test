@@ -30,7 +30,7 @@ fazesoft-coding-test/
 * **Space Complexity:** O(1) auxiliary space
 * **Execution:**
   ```bash
-  node DSA/solution.py
+  python3 DSA/solution.py
   ```
 
 ---
