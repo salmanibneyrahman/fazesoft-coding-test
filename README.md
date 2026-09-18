@@ -10,10 +10,10 @@ fazesoft-coding-test/
 ├── README.md                # Main repository documentation
 │
 ├── DSA/
-│   └── solution.js          # Question 1: Jump Game (Optimal Greedy O(n))
+│   └── solution.py          # Question 1: Jump Game 
 │
 ├── SQL/
-│   └── solution.sql         # Question 2: Customer Spending Analysis
+│   └── solution.sql         # Question 2: Customer 
 │
 └── Web/
     ├── package.json         # Project metadata and dependencies
@@ -24,13 +24,13 @@ fazesoft-coding-test/
 ---
 
 ##  Question 1 — DSA (Jump Game)
-* **File:** `DSA/solution.js`
+* **File:** `DSA/solution.py`
 * **Approach:** Greedy Algorithm tracking the furthest reachable index (`maxReach`).
 * **Time Complexity:** O(n)
 * **Space Complexity:** O(1) auxiliary space
 * **Execution:**
   ```bash
-  node DSA/solution.js
+  node DSA/solution.py
   ```
 
 ---
